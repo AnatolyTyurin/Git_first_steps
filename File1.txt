@@ -1,3 +1,4 @@
+Is Git Gui working?
 commit test update
 456
 789
