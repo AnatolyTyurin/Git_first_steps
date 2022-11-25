@@ -1,3 +1,4 @@
+Second check of Git Gui
 Is Git Gui working?
 commit test update
 456
